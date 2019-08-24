@@ -13,4 +13,5 @@ This project contains use of -
 ```
 This project contains all libraries used for accelerometer and servo motors. 
 
-Resources on the internet about ATMega32 is very short. If you are helped from this project, build your project and make it public too so that there can be a good resource about it on the internet. 
+# Note
+You should have already figured out that resources on the internet about ATMega32 is very short. If you are helped from this project, build your project and make it public too (along with a video would be more helpful) so that there can be a good resource about it on the internet. Take help, help others. Thank you. 
